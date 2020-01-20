@@ -1,0 +1,6 @@
+Win Screen - ecur
+Game Over Screen - euil
+
+When a pokemon dies from recoil damage it does not faint (we can get away with not fixing this but it would be nice)
+
+USE PROPER INFO BOX FOR EACH PKMN - not just pikachu / charizard
